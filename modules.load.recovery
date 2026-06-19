@@ -182,3 +182,9 @@ load_track.ko
 sec.ko
 cache-parity.ko
 emi-mpu-hook-v1.ko
+focaltech_v3.ko
+goodix_brl_mmi.ko
+mmi_info.ko
+mmi_relay.ko
+sensors_class.ko
+touchscreen_mmi.ko
